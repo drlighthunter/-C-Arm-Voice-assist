@@ -1,0 +1,5 @@
+{
+  "name": "C-Arm Voice Command Interface",
+  "description": "A prototype voice-controlled dashboard for simulating C-arm machine movements (Kiran/Allengers) via Raspberry Pi integration.",
+  "requestFramePermissions": ["microphone"]
+}
